@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![1337 Readme Logo](.github/images/1337-readme.svg)
-Share your progress, skills, stats with the world via GitHub `README.md`
-[![code style: prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4)](https://github.com/prettier/prettier)
-[![code style: prettier](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
-[![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Vercel](https://badgen.net/badge/icon/vercel/black?icon=vercel&label)](https://vercel.com)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](#contributors-)
+<br/>
+<p align="center">
+	<a href="#">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:mmasstou@student.1337.ma" />
+	</a>
+	<span> * </span>
+	<a href="#">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=#" />
+	</a>
+</p>
+--
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aboulhaj)](https://github.com/ALI-Bou55)
