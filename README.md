@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 --
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aboulhaj)](https://github.com/ALI-Bou55)
+
+| [![Aboulhaj's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=ALI-Bou55&count_private=true&theme=calm&show_icons=true)](https://github.com/Ali-Bou55?tab=repositories) | [![Aboulhaj's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-Bou55&layout=compact&hide_border=true&theme=jolly)](https://github.com/ALI-Bou55?tab=repositories) |
+|:-:|:-:|
