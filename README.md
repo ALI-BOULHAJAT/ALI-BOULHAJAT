@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 --
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aboulhaj)](https://github.com/Aboulhaj)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aboulhaj)](https://github.com/Aboulhaj)
 
 | [![Aboulhaj's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=Aboulhaj&count_private=true&theme=calm&show_icons=true)](https://github.com/Aboulhaj?tab=repositories) | [![Aboulhaj's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulhaj&layout=compact&hide_border=true&theme=jolly)](https://github.com/Aboulhaj?tab=repositories) |
 |:-:|:-:|
