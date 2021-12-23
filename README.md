@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![1337 Readme Logo](.github/images/1337-readme.svg)
+Share your progress, skills, stats with the world via GitHub `README.md`
+[![code style: prettier](https://img.shields.io/badge/code%20style-prettier-ff69b4)](https://github.com/prettier/prettier)
+[![code style: prettier](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
+[![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Vercel](https://badgen.net/badge/icon/vercel/black?icon=vercel&label)](https://vercel.com)<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](#contributors-)
+
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=aboulhaj)](https://github.com/ALI-Bou55)
