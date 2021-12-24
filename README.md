@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[[params.social]]
+[[<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?]]
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/ali-boulhajat"
