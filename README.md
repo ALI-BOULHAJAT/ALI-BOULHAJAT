@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br/>
 <p align="center">
 	<a href="#">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:mmasstou@student.1337.ma" />
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:ali.boulhajat@gmail.com" />
 	</a>
 	<span> * </span>
 	<a href="#">
