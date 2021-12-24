@@ -39,22 +39,17 @@ Here are some ideas to get you started:
 	</a>
 </p>
 -->
-
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<p>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    </head>
-    <body>
         <p align="center">
         <a href="https://www.linkedin.com/ali-boulhajat" rel="nofollow noreferrer">
             <i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>
         </a>
         <a href="mailto:ali.boulhajat@gmail.com" rel="nofollow noreferrer">
             <i class="fa fa-google" style="font-size:48px;color:red"></i>
-        </a>
-    </body>
-</html> 
+	</a>
+</p>
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aboulhaj)](https://github.com/ALI-BOULHAJAT)
 
