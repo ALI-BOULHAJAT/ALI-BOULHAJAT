@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/ali-boulhajat"
 <br/>
 <p align="center">
 	<a href="#">
