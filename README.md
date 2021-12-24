@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[[<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?]]
+<!--[[<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/ali-boulhajat"
+    link = "//linkedin.com/in/ali-boulhajat"-->
 <br/>
 <p align="center">
 	<a href="#">
