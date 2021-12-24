@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 	</a>
 	<span> * </span>
 	<a href="#">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=#" />
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-boulhajat" />
 	</a>
 </p>
 --
