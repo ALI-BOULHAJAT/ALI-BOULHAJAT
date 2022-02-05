@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 	</a>
 </p>
 <!-- https://badge42.herokuapp.com/api/stats/mmasstou?darkmode=true&cursus=42cursus -->
-[![42 Profile Card](https://badge42.herokuapp.com/api/stats/mmasstou?darkmode=true&cursus=42cursus&dark=true&login=aboulhaj)](https://github.com/ALI-BOULHAJAT)
+<p align="center"><a href="https://github.com/mmasstou"><img alt="Ask Me Anything" src="https://badge42.herokuapp.com/api/stats/mmasstou?darkmode=true&cursus=42cursus" /></a></p>
 <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=aboulhaj)](https://github.com/ALI-BOULHAJAT) -->
 
 | [![Aboulhaj's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=ALI-BOULHAJAT&count_private=true&theme=calm&show_icons=true)](https://github.com/ALI-BOULHAJAT?tab=repositories) | [![Aboulhaj's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-BOULHAJAT&layout=compact&hide_border=true&theme=jolly)](https://github.com/ALI-BOULHAJAT?tab=repositories) |
