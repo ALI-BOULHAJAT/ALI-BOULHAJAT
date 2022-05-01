@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 	</a>
 </p>
 -->
+
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+
+[![HitCount](https://hits.dwyl.com/aboulhaj/aboulhaj.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aboulhaj/aboulhaj)
 <p>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -50,7 +54,9 @@ Here are some ideas to get you started:
             <i class="fa fa-google" style="font-size:48px;color:red"></i>
 	</a>
 </p>
-<p align="center"><a href="https://github.com/ALI-BOULHAJAT"><img alt="Ask Me Anything" src="https://badge42.herokuapp.com/api/stats/aboulhaj?darkmode=true&cursus=42cursus" /></a></p>
+<!--<p align="center"><a href="https://github.com/ALI-BOULHAJAT"><img alt="Ask Me Anything" src="https://badge42.herokuapp.com/api/stats/aboulhaj?darkmode=true&cursus=42cursus" /></a></p>-->
+
+<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2n8in6v007109kte0b8at19/stats?cursusId=21&coalitionId=73" alt="aboulhaj's 42 stats" /></a>p>
 
 | [![Aboulhaj's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=ALI-BOULHAJAT&count_private=true&theme=calm&show_icons=true)](https://github.com/ALI-BOULHAJAT?tab=repositories) | [![Aboulhaj's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-BOULHAJAT&layout=compact&hide_border=true&theme=jolly)](https://github.com/ALI-BOULHAJAT?tab=repositories) |
 |:-:|:-:|
