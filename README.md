@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<!-- align="center"><img src="https://readme-typing-svg.herokuapp.com?font=smooch&color=F70721&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B;Welcome+To+Ali's+Github;+I+Am+a+Software+Engineering+Student)](https://git.io/typing-svg"
+ -->
+ 
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=smooch&color=F70721&size=30&center=true&vCenter=true&width=900&height=50&lines=Hi+there+%F0%9F%91%8B;Welcome+To+Ali's+Github;+I+Am+a+Software+Engineering+Student"></h1>
 <!--
 **ALI-Bou55/ALI-Bou55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
