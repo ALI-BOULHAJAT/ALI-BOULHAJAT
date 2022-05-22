@@ -46,8 +46,14 @@ Here are some ideas to get you started:
  -->
  
 <!--  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ALI-BOULHAJAT)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!--  -->
+<!-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) -->
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+<h2 align="center">
+:dizzy: Ask me anything! :sparkles:<br><br>
+
+<a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
+</h2>
  
 [![HitCount](https://hits.dwyl.com/aboulhaj/aboulhaj.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aboulhaj/aboulhaj) 
 <p>
