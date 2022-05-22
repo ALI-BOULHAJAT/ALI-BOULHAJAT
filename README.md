@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 	
 	
-<p align="justify">
+<p align="center" >
   <a href="https://github.com/ALI-BOULHAJAT">
     <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
   </a>
