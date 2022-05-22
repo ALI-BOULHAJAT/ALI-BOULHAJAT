@@ -44,7 +44,12 @@ Here are some ideas to get you started:
 
 <!-- ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
  -->
-[![HitCount](https://hits.dwyl.com/aboulhaj/aboulhaj.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aboulhaj/aboulhaj)
+ 
+<!--  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ALI-BOULHAJAT)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+ 
+[![HitCount](https://hits.dwyl.com/aboulhaj/aboulhaj.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aboulhaj/aboulhaj) 
 <p>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
