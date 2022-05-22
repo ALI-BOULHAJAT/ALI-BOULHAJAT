@@ -49,26 +49,14 @@ Here are some ideas to get you started:
 <!--  -->
 <!-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) -->
 <p align="center">
-  <a href="https://github.com/peterthehan">
+  <a href="https://github.com/ALI-BOULHAJAT">
     <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
   </a>
-  <a href="https://www.linkedin.com/in/peterthehan">
+  <a href="https://www.linkedin.com/in/ali-boulhajat">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
   </a>
-  <a href="https://www.npmjs.com/~peterthehan">
-    <img alt="npm" title="npm" height="48" width="48" src="assets/npm.svg">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/WjEFnzC">
-    <img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg">
-  </a>
-  <a href="https://twitter.com/PeterTheHan">
+  <a href="https://twitter.com/Ali_Boulhajat">
     <img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg">
-  </a>
-  <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA">
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg">
   </a>
 </p>
 
