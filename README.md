@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!--  -->
 <!-- [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) -->
 <p align="center">
-  <a href="https://github.com/peterthehan">
+  <a href="https://github.com/ALI-BOULHAJAT">
     <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
   </a>
   <a href="https://www.linkedin.com/in/peterthehan">
