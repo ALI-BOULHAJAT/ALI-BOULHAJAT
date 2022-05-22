@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/ALI-BOULHAJAT">
     <img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg">
   </a>
-  <a href="https://www.linkedin.com/in/peterthehan">
+  <a href="https://www.linkedin.com/in/ali-boulhajat">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg">
   </a>
   <a href="https://www.npmjs.com/~peterthehan">
