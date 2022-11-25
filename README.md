@@ -32,7 +32,7 @@
     <img alt="LinkedIn" title="LinkedIn" height="70" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
 		<th scope="col"><a href="https://twitter.com/Ali_Boulhajat">
     <img alt="Twitter" title="Twitter" height="70" width="120" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></th>
-		<th scope="col"><a href="mailto:jgracia9988@gmail.com">
+		<th scope="col"><a href="mailto:ali.boulhajat@gmail.com">
         <img alt="Gmail" title="Gmail" height="70" width="120" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></th>
 
 
