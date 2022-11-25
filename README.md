@@ -24,7 +24,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 	
 	
-<table align="center" border="50">
+<table align="center" border="5">
 	<tr>
 		<th scope="col"><a href="https://github.com/ALI-BOULHAJAT">
     <img alt="GitHub" title="GitHub" height="80" width="120" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteg"></a></th>
