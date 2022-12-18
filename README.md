@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Aboulhaj's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-BOULHAJAT&layout=compact&hide_border=true&theme=jolly)](https://github.com/ALI-BOULHAJAT?tab=repositories)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-BOULHAJAT&langs_count=8&theme=radical)](https://github.com/ALI-BOULHAJAT/github-readme-stats)</div>
 	
 <div align="center">
 
